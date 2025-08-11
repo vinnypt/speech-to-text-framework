@@ -1,14 +1,15 @@
-# Speech-to-Text Framework
+# Voice Assistant Framework
 
-A basic Python framework for speech-to-text capabilities using your microphone.
+A basic Python voice assistant framework that listens to your microphone, recognizes speech, and performs simple actions based on your commands.
 
 ## Features
 - Listens to your microphone
-- Prints recognized speech as text
+- Recognizes and prints your speech as text
 
 ## Requirements
 - Python 3.x
 - `speech_recognition` library
 - `PyAudio` (for microphone input)
 
-Speak into your microphone when prompted. The recognized text will be printed in the terminal.
+## Usage
+Run the assistant and speak into your microphone when prompted. The assistant will recognize your commands and respond
