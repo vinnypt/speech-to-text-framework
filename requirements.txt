@@ -1,0 +1,6 @@
+SpeechRecognition
+PyAudio
+noisereduce
+librosa
+numpy
+scipy
